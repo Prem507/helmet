@@ -2,8 +2,9 @@ flask
 flask-cors
 numpy
 opencv-python-headless
-ultralytics==8.2.103
-torch==2.1.0
-gunicorn
+ultralytics==8.3.32
+torch==2.5.1
+torchvision==0.20.1
+
 
 
