@@ -1,0 +1,9 @@
+flask
+flask-cors
+numpy
+opencv-python-headless
+ultralytics==8.2.103
+torch==2.1.0
+gunicorn
+
+
